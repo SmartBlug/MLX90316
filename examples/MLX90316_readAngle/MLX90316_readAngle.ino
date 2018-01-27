@@ -1,7 +1,5 @@
-# MLX90316
-Arduino MLX90316 library
+/* MLX90316 Rotary Position Sensor */
 
-```
 #include <Metro.h> //Include Metro library
 #include <MLX90316.h>
 
@@ -31,4 +29,3 @@ void loop() {
     }
   }
 }
-```
